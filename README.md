@@ -11,12 +11,12 @@
   1. get_imdb_data.py is for requesting and getting movie data from IMDB website. The webpage data is cached in cache.json, which I can get data from this file later. And the data I need of movies is cached in movies_dict.json, including the movie name, genre, released year, director, gross in USA, and gross in the world.
   2. store_data.py is for building a database and inserting data to it. The movie.db database includes three table: Movies, Genres and Movies_Genres. movies and genres are in many-to-many relationship and the Movies_Genres is the bridge table.
   3. process_data.py is the main part that process data and show visualization as well as enable users to interact with the program. There are five functions and one class to process data and generate plotly graphs:
-   * Class Movie(): define the movie object, which has attributes of title, rating, director, year, usgross and global gross. It will be printed as a brief intro of this movie.
-   * show_number(): show the number of movies in each genre among the 250 top movies.
-   * show_rating(): show average rating of movies in each genre among the 250 top rated movies
-   * show_gross(): show average gross in both USA and the world of movies in each genre among the 250 top rated movies
-   * gross_rating(genre): show the rating and global gross of movies in the genre
-   * gross_share(movie): show the gross in USA and the gross in other regions of the movie
+       * Class Movie(): define the movie object, which has attributes of title, rating, director, year, usgross and global gross. It will be printed as a brief intro of this movie.
+       * show_number(): show the number of movies in each genre among the 250 top movies.
+       * show_rating(): show average rating of movies in each genre among the 250 top rated movies
+       * show_gross(): show average gross in both USA and the world of movies in each genre among the 250 top rated movies
+       * gross_rating(genre): show the rating and global gross of movies in the genre
+       * gross_share(movie): show the gross in USA and the gross in other regions of the movie
 
 # Brief user guide:
   1. Run get_imdb_data.py to get cache.json and movies_dict.json_data

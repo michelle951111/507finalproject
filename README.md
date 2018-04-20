@@ -20,10 +20,10 @@
              * show average of movies in each genre among the 250 top rated movies
          * gross
              * show average gross in both USA and the world of movies in each genre among the 250 top rated movies
-         * <a genre name>
+         * <'a genre name'>
              * available only if there is an active result set
              * valid input: a genre listed in a result set
-         * <a movie name>
+         * <'a movie name'>
              * available after there is an active result set of <genre name> command
              * valid input: a number listed in a result set of <genre name> command
          * exit

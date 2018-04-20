@@ -10,7 +10,6 @@ DBNAME = 'movie.db'
 class Movie():
     def __init__(self, title):
         self.title = title
-
         try:
             conn = sqlite3.connect(DBNAME)
             cur = conn.cursor()
@@ -379,7 +378,7 @@ def help_command():
        number
            show number of movies in each genre among the 250 top rated movies
        rating
-           show average of movies in each genre among the 250 top rated movies
+           show average rating of movies in each genre among the 250 top rated movies
        gross
            show average gross in both USA and the world of movies in each genre among the 250 top rated movies
        <genre name>
@@ -469,4 +468,3 @@ if __name__=="__main__":
     print('Welcome to IMDB top 250 movies!')
     term=interactive_prompt()
     print("bye")
-    #print(gross_rating('Crime'))

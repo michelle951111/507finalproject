@@ -7,27 +7,26 @@ Getting started info for plotly:
   Look at start instruction https://plot.ly/python/getting-started/ , Follow the instructions, install the package, create an account and import plotly in your local enviroment.
 
 Brief description of how my code is structured:
-  
+
 
 Brief user guide:
   1. Run get_imdb_data.py to get cache.json and movies_dict.json_data
   2. Run store_data.py to build a database movie.db
-  3. Run process_data.py to interact with this program and see some interesting insights of relationships of genre, rating, gross of movies.
-  Please input valid command in your commandline.
-      valid commands:
-       number
-           show number of movies in each genre among the 250 top rated movies
-       rating
-           show average of movies in each genre among the 250 top rated movies
-       gross
-           show average gross in both USA and the world of movies in each genre among the 250 top rated movies
-       <a genre name>
-           available only if there is an active result set
-           valid input: a genre listed in a result set
-       <a movie name>
-           available after there is an active result set of <genre name> command
-           valid input: a number listed in a result set of <genre name> command
-       exit
-           exits the program
-       help
-           lists available commands (these instructions)
+  3. Run process_data.py to interact with this program and see some interesting insights of relationships of genre, rating, gross of movies. Please input valid command in your commandline.
+      * valid commands:
+         * number
+             show number of movies in each genre among the 250 top rated movies
+         * rating
+             show average of movies in each genre among the 250 top rated movies
+         * gross
+             show average gross in both USA and the world of movies in each genre among the 250 top rated movies
+         * <a genre name>
+             available only if there is an active result set
+             valid input: a genre listed in a result set
+         * <a movie name>
+             available after there is an active result set of <genre name> command
+             valid input: a number listed in a result set of <genre name> command
+         * exit
+             exits the program
+         * help
+             lists available commands (these instructions)

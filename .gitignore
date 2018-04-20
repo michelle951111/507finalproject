@@ -1,0 +1,4 @@
+__pycache__
+cache.json
+movie.db
+movies_dict.json

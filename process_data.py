@@ -409,7 +409,6 @@ def interactive_prompt():
             term=input('Enter number/rating/gross or help: ')
     return term
 
-
 def main_command(term):
     result={}
     if term=='number':
@@ -430,8 +429,6 @@ def main_command(term):
         second_term=genre_command(second_term,result)
     return second_term
 
-
-
 def genre_command(term,last_result):
     movie_dict={}
     if term in last_result.keys():
@@ -451,8 +448,6 @@ def genre_command(term,last_result):
     else:
         second_term=genre_command(second_term,last_result)
     return second_term
-
-
 
 def movie_command(term,last_result,movie_dict):
     movie=movie_dict[int(term)]['Movie']

@@ -1,18 +1,21 @@
 import unittest
+import json
 import get_imdb_data as gd
 import store_data as sd
 import process_data as pd
 import sqlite3
 
 DBNAME = 'movie.db'
+CACHE_FNAME='movies_dict.json'
 
 class TestGetData(unittest.TestCase):
 
     def test_get_data(self):
-        results=gd.get_top_250()
-        self.assertIsInstance(results,list)
-        self.assertIsInstance(results[1],dict)
-        self.assertEqual(len(results), 250)
+        with open(CACHE_FNAME) as json_data:
+            results = json.load(json_data)
+            self.assertIsInstance(results,list)
+            self.assertIsInstance(results[1],dict)
+            self.assertEqual(len(results), 250)
 
 class TestDatabase(unittest.TestCase):
 

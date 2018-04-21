@@ -1,4 +1,5 @@
 # Brief user guide:
+	please run these three py files before ran the test
   1. The first step: Run get_imdb_data.py to get cache.json and movies_dict.json_data
   2. The second step: Run store_data.py to build a database movie.db
   3. Then you can run process_data.py to interact with this program and see some interesting insights of relationships of genre, rating, gross of movies. Please input valid command in your commandline.

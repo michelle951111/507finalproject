@@ -90,7 +90,6 @@ class TestProcessData(unittest.TestCase):
         self.assertEqual(result['Crime']['US Gross'],'85501162.35')
         self.assertEqual(result['Crime']['Global Gross'],'206184429.56')
 
-
     def test_gross_rating(self):
         result=pd.gross_rating('Crime')
         self.assertEqual(len(result),50)

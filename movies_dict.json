@@ -1,0 +1,3208 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "rating": 9.2,
+        "year": "(1994)",
+        "director": "Frank Darabont",
+        "us gross": 28341469,
+        "global gross": 58500000,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Godfather",
+        "rating": 9.2,
+        "year": "(1972)",
+        "director": "Francis Ford Coppola",
+        "us gross": 134966411,
+        "global gross": 245066411,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Godfather: Part II",
+        "rating": 9.0,
+        "year": "(1974)",
+        "director": "Francis Ford Coppola",
+        "us gross": 57300000,
+        "global gross": 245066411,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "rating": 9.0,
+        "year": "(2008)",
+        "director": "Christopher Nolan",
+        "us gross": 534858444,
+        "global gross": 1004558444,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "12 Angry Men",
+        "rating": 8.9,
+        "year": "(1957)",
+        "director": "Sidney Lumet",
+        "us gross": 534858444,
+        "global gross": 1004558444,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Schindler's List",
+        "rating": 8.9,
+        "year": "(1993)",
+        "director": "Steven Spielberg",
+        "us gross": 96067179,
+        "global gross": 221000000,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": 8.9,
+        "year": "(2003)",
+        "director": "Peter Jackson",
+        "us gross": 377845905,
+        "global gross": 1119929521,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Pulp Fiction",
+        "rating": 8.9,
+        "year": "(1994)",
+        "director": "Quentin Tarantino",
+        "us gross": 107928762,
+        "global gross": 213928762,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "rating": 8.8,
+        "year": "(1966)",
+        "director": "Sergio Leone",
+        "us gross": 6100000,
+        "global gross": 213928762,
+        "genres": [
+            " Western"
+        ]
+    },
+    {
+        "title": "Fight Club",
+        "rating": 8.8,
+        "year": "(1999)",
+        "director": "David Fincher",
+        "us gross": 37030102,
+        "global gross": 100853753,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": 8.8,
+        "year": "(2001)",
+        "director": "Peter Jackson",
+        "us gross": 315544750,
+        "global gross": 871530324,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Forrest Gump",
+        "rating": 8.7,
+        "year": "(1994)",
+        "director": "Robert Zemeckis",
+        "us gross": 330252182,
+        "global gross": 677945399,
+        "genres": [
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": 8.7,
+        "year": "(1980)",
+        "director": "Irvin Kershner",
+        "us gross": 290475067,
+        "global gross": 247916602,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Fantasy",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Inception",
+        "rating": 8.7,
+        "year": "(2010)",
+        "director": "Christopher Nolan",
+        "us gross": 292576195,
+        "global gross": 825532764,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "rating": 8.7,
+        "year": "(2002)",
+        "director": "Peter Jackson",
+        "us gross": 342551365,
+        "global gross": 926047111,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "rating": 8.7,
+        "year": "(1975)",
+        "director": "Milos Forman",
+        "us gross": 112000000,
+        "global gross": 926047111,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Goodfellas",
+        "rating": 8.7,
+        "year": "(1990)",
+        "director": "Martin Scorsese",
+        "us gross": 46836394,
+        "global gross": 926047111,
+        "genres": [
+            " Biography",
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "rating": 8.6,
+        "year": "(1999)",
+        "director": "Lana Wachowski",
+        "us gross": 171479930,
+        "global gross": 463517383,
+        "genres": [
+            " Action",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Seven Samurai",
+        "rating": 8.6,
+        "year": "(1954)",
+        "director": "Akira Kurosawa",
+        "us gross": 269061,
+        "global gross": 463517383,
+        "genres": [
+            " Adventure",
+            " Drama"
+        ]
+    },
+    {
+        "title": "City of God",
+        "rating": 8.6,
+        "year": "(2002)",
+        "director": "Fernando Meirelles",
+        "us gross": 7563397,
+        "global gross": 18062482,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "rating": 8.6,
+        "year": "(1977)",
+        "director": "George Lucas",
+        "us gross": 322740140,
+        "global gross": 775398007,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Fantasy",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Se7en",
+        "rating": 8.6,
+        "year": "(1995)",
+        "director": "David Fincher",
+        "us gross": 100125643,
+        "global gross": 327311859,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "rating": 8.6,
+        "year": "(1991)",
+        "director": "Jonathan Demme",
+        "us gross": 130742922,
+        "global gross": 272742922,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "rating": 8.6,
+        "year": "(1946)",
+        "director": "Frank Capra",
+        "us gross": 7270000,
+        "global gross": 272742922,
+        "genres": [
+            " Drama",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Life Is Beautiful",
+        "rating": 8.6,
+        "year": "(1997)",
+        "director": "Roberto Benigni",
+        "us gross": 57598247,
+        "global gross": 229163264,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "The Usual Suspects",
+        "rating": 8.6,
+        "year": "(1995)",
+        "director": "Bryan Singer",
+        "us gross": 23341568,
+        "global gross": 34449356,
+        "genres": [
+            " Crime",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Spirited Away",
+        "rating": 8.5,
+        "year": "(2001)",
+        "director": "Hayao Miyazaki",
+        "us gross": 10055859,
+        "global gross": 274925095,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Family",
+            " Fantasy",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "Saving Private Ryan",
+        "rating": 8.5,
+        "year": "(1998)",
+        "director": "Steven Spielberg",
+        "us gross": 216540909,
+        "global gross": 481840909,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "rating": 8.5,
+        "year": "(1994)",
+        "director": "Luc Besson",
+        "us gross": 19501238,
+        "global gross": 45501238,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Interstellar",
+        "rating": 8.5,
+        "year": "(2014)",
+        "director": "Christopher Nolan",
+        "us gross": 188020017,
+        "global gross": 675020017,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "The Green Mile",
+        "rating": 8.5,
+        "year": "(1999)",
+        "director": "Frank Darabont",
+        "us gross": 136801374,
+        "global gross": 286801374,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Fantasy",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "American History X",
+        "rating": 8.5,
+        "year": "(1998)",
+        "director": "Tony Kaye",
+        "us gross": 6719864,
+        "global gross": 23875127,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Psycho",
+        "rating": 8.5,
+        "year": "(1960)",
+        "director": "Alfred Hitchcock",
+        "us gross": 32000000,
+        "global gross": 50000000,
+        "genres": [
+            " Horror",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "rating": 8.5,
+        "year": "(1968)",
+        "director": "Sergio Leone",
+        "us gross": 5321508,
+        "global gross": 50000000,
+        "genres": [
+            " Western"
+        ]
+    },
+    {
+        "title": "City Lights",
+        "rating": 8.5,
+        "year": "(1931)",
+        "director": "Charles Chaplin",
+        "us gross": 19181,
+        "global gross": 50000000,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Casablanca",
+        "rating": 8.5,
+        "year": "(1942)",
+        "director": "Michael Curtiz",
+        "us gross": 1024560,
+        "global gross": 50000000,
+        "genres": [
+            " Drama",
+            " Romance",
+            " War"
+        ]
+    },
+    {
+        "title": "The Intouchables",
+        "rating": 8.5,
+        "year": "(2011)",
+        "director": "Olivier Nakache",
+        "us gross": 13182281,
+        "global gross": 426480871,
+        "genres": [
+            " Biography",
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Modern Times",
+        "rating": 8.5,
+        "year": "(1936)",
+        "director": "Charles Chaplin",
+        "us gross": 163245,
+        "global gross": 426480871,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Family",
+            " Romance"
+        ]
+    },
+    {
+        "title": "The Pianist",
+        "rating": 8.5,
+        "year": "(2002)",
+        "director": "Roman Polanski",
+        "us gross": 32572577,
+        "global gross": 120072577,
+        "genres": [
+            " Biography",
+            " Drama",
+            " Music",
+            " War"
+        ]
+    },
+    {
+        "title": "The Departed",
+        "rating": 8.5,
+        "year": "(2006)",
+        "director": "Martin Scorsese",
+        "us gross": 132384315,
+        "global gross": 289847354,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "rating": 8.5,
+        "year": "(1981)",
+        "director": "Steven Spielberg",
+        "us gross": 248159971,
+        "global gross": 389925971,
+        "genres": [
+            " Action",
+            " Adventure"
+        ]
+    },
+    {
+        "title": "Terminator 2",
+        "rating": 8.5,
+        "year": "(1991)",
+        "director": "James Cameron",
+        "us gross": 204843350,
+        "global gross": 315000000,
+        "genres": [
+            " Action",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Rear Window",
+        "rating": 8.5,
+        "year": "(1954)",
+        "director": "Alfred Hitchcock",
+        "us gross": 36764313,
+        "global gross": 36888916,
+        "genres": [
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "rating": 8.5,
+        "year": "(1985)",
+        "director": "Robert Zemeckis",
+        "us gross": 210609762,
+        "global gross": 381109762,
+        "genres": [
+            " Adventure",
+            " Comedy",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Whiplash",
+        "rating": 8.5,
+        "year": "(2014)",
+        "director": "Damien Chazelle",
+        "us gross": 13092000,
+        "global gross": 48982041,
+        "genres": [
+            " Drama",
+            " Music"
+        ]
+    },
+    {
+        "title": "Gladiator",
+        "rating": 8.5,
+        "year": "(2000)",
+        "director": "Ridley Scott",
+        "us gross": 187705427,
+        "global gross": 457640427,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "rating": 8.5,
+        "year": "(1994)",
+        "director": "Roger Allers",
+        "us gross": 312900000,
+        "global gross": 987483777,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Drama",
+            " Family",
+            " Musical"
+        ]
+    },
+    {
+        "title": "The Prestige",
+        "rating": 8.5,
+        "year": "(2006)",
+        "director": "Christopher Nolan",
+        "us gross": 53089891,
+        "global gross": 109676311,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Memento",
+        "rating": 8.4,
+        "year": "(2000)",
+        "director": "Christopher Nolan",
+        "us gross": 25544867,
+        "global gross": 39723096,
+        "genres": [
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Apocalypse Now",
+        "rating": 8.4,
+        "year": "(1979)",
+        "director": "Francis Ford Coppola",
+        "us gross": 83471511,
+        "global gross": 39723096,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Alien",
+        "rating": 8.4,
+        "year": "(1979)",
+        "director": "Ridley Scott",
+        "us gross": 78900000,
+        "global gross": 203630630,
+        "genres": [
+            " Horror",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "The Great Dictator",
+        "rating": 8.4,
+        "year": "(1940)",
+        "director": "Charles Chaplin",
+        "us gross": 5000000,
+        "global gross": 11000000,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Cinema Paradiso",
+        "rating": 8.4,
+        "year": "(1988)",
+        "director": "Giuseppe Tornatore",
+        "us gross": 11990401,
+        "global gross": 11000000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Sunset Blvd.",
+        "rating": 8.4,
+        "year": "(1950)",
+        "director": "Billy Wilder",
+        "us gross": 2350000,
+        "global gross": 5000000,
+        "genres": [
+            " Drama",
+            " Film-Noir"
+        ]
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "rating": 8.4,
+        "year": "(1964)",
+        "director": "Stanley Kubrick",
+        "us gross": 9440272,
+        "global gross": 5000000,
+        "genres": [
+            " Comedy",
+            " War"
+        ]
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "rating": 8.4,
+        "year": "(1988)",
+        "director": "Isao Takahata",
+        "us gross": 9440272,
+        "global gross": 5000000,
+        "genres": [
+            " Animation",
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "The Lives of Others",
+        "rating": 8.4,
+        "year": "(2006)",
+        "director": "Florian Henckel von Donnersmarck",
+        "us gross": 11286112,
+        "global gross": 77356819,
+        "genres": [
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Paths of Glory",
+        "rating": 8.4,
+        "year": "(1957)",
+        "director": "Stanley Kubrick",
+        "us gross": 11286112,
+        "global gross": 77356819,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Coco",
+        "rating": 8.4,
+        "year": "(2017)",
+        "director": "Lee Unkrich",
+        "us gross": 209627728,
+        "global gross": 789905088,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Family",
+            " Fantasy",
+            " Music",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "rating": 8.4,
+        "year": "(1980)",
+        "director": "Stanley Kubrick",
+        "us gross": 44017374,
+        "global gross": 789905088,
+        "genres": [
+            " Drama",
+            " Horror"
+        ]
+    },
+    {
+        "title": "Django Unchained",
+        "rating": 8.4,
+        "year": "(2012)",
+        "director": "Quentin Tarantino",
+        "us gross": 162805434,
+        "global gross": 425368238,
+        "genres": [
+            " Drama",
+            " Western"
+        ]
+    },
+    {
+        "title": "WALL\u00b7E",
+        "rating": 8.4,
+        "year": "(2008)",
+        "director": "Andrew Stanton",
+        "us gross": 223808164,
+        "global gross": 534767889,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Family",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Princess Mononoke",
+        "rating": 8.4,
+        "year": "(1997)",
+        "director": "Hayao Miyazaki",
+        "us gross": 2375308,
+        "global gross": 159375308,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "American Beauty",
+        "rating": 8.4,
+        "year": "(1999)",
+        "director": "Sam Mendes",
+        "us gross": 130096601,
+        "global gross": 226200000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "rating": 8.4,
+        "year": "(2012)",
+        "director": "Christopher Nolan",
+        "us gross": 448139099,
+        "global gross": 1084939099,
+        "genres": [
+            " Action",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "rating": 8.4,
+        "year": "(1957)",
+        "director": "Billy Wilder",
+        "us gross": 448139099,
+        "global gross": 9000000,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Oldeuboi",
+        "rating": 8.4,
+        "year": "(2003)",
+        "director": "Chan-wook Park",
+        "us gross": 707481,
+        "global gross": 14272524,
+        "genres": [
+            " Action",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Aliens",
+        "rating": 8.4,
+        "year": "(1986)",
+        "director": "James Cameron",
+        "us gross": 85160248,
+        "global gross": 131060248,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "rating": 8.3,
+        "year": "(1984)",
+        "director": "Sergio Leone",
+        "us gross": 5321508,
+        "global gross": 131060248,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Das Boot",
+        "rating": 8.3,
+        "year": "(1981)",
+        "director": "Wolfgang Petersen",
+        "us gross": 11487676,
+        "global gross": 73482661,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Thriller",
+            " War"
+        ]
+    },
+    {
+        "title": "Citizen Kane",
+        "rating": 8.3,
+        "year": "(1941)",
+        "director": "Orson Welles",
+        "us gross": 1585634,
+        "global gross": 73482661,
+        "genres": [
+            " Drama",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "North by Northwest",
+        "rating": 8.3,
+        "year": "(1959)",
+        "director": "Alfred Hitchcock",
+        "us gross": 13275000,
+        "global gross": 22213000,
+        "genres": [
+            " Adventure",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Vertigo",
+        "rating": 8.3,
+        "year": "(1958)",
+        "director": "Alfred Hitchcock",
+        "us gross": 3200000,
+        "global gross": 25000000,
+        "genres": [
+            " Mystery",
+            " Romance",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Braveheart",
+        "rating": 8.3,
+        "year": "(1995)",
+        "director": "Mel Gibson",
+        "us gross": 75600000,
+        "global gross": 210409945,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History",
+            " War"
+        ]
+    },
+    {
+        "title": "Reservoir Dogs",
+        "rating": 8.3,
+        "year": "(1992)",
+        "director": "Quentin Tarantino",
+        "us gross": 2832029,
+        "global gross": 210409945,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "rating": 8.3,
+        "year": "(1983)",
+        "director": "Richard Marquand",
+        "us gross": 309125409,
+        "global gross": 572705079,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Fantasy",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Dangal",
+        "rating": 8.3,
+        "year": "(2016)",
+        "director": "Nitesh Tiwari",
+        "us gross": 12391761,
+        "global gross": 310000000,
+        "genres": [
+            " Action",
+            " Biography",
+            " Drama",
+            " Sport"
+        ]
+    },
+    {
+        "title": "M",
+        "rating": 8.3,
+        "year": "(1931)",
+        "director": "Fritz Lang",
+        "us gross": 28877,
+        "global gross": 310000000,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Kimi no na wa.",
+        "rating": 8.3,
+        "year": "(2016)",
+        "director": "Makoto Shinkai",
+        "us gross": 5017246,
+        "global gross": 357986087,
+        "genres": [
+            " Animation",
+            " Drama",
+            " Fantasy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Requiem for a Dream",
+        "rating": 8.3,
+        "year": "(2000)",
+        "director": "Darren Aronofsky",
+        "us gross": 3635482,
+        "global gross": 7390108,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Taare Zameen Par",
+        "rating": 8.3,
+        "year": "(2007)",
+        "director": "Aamir Khan",
+        "us gross": 1204660,
+        "global gross": 7390108,
+        "genres": [
+            " Drama",
+            " Family"
+        ]
+    },
+    {
+        "title": "Amadeus",
+        "rating": 8.3,
+        "year": "(1984)",
+        "director": "Milos Forman",
+        "us gross": 51973029,
+        "global gross": 7390108,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History",
+            " Music"
+        ]
+    },
+    {
+        "title": "Am\u00e9lie",
+        "rating": 8.3,
+        "year": "(2001)",
+        "director": "Jean-Pierre Jeunet",
+        "us gross": 33225499,
+        "global gross": 173921954,
+        "genres": [
+            " Comedy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "A Clockwork Orange",
+        "rating": 8.3,
+        "year": "(1971)",
+        "director": "Stanley Kubrick",
+        "us gross": 26589355,
+        "global gross": 173921954,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "rating": 8.3,
+        "year": "(1962)",
+        "director": "David Lean",
+        "us gross": 44824144,
+        "global gross": 77324144,
+        "genres": [
+            " Adventure",
+            " Biography",
+            " Drama",
+            " History",
+            " War"
+        ]
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "rating": 8.3,
+        "year": "(2004)",
+        "director": "Michel Gondry",
+        "us gross": 34400301,
+        "global gross": 73169222,
+        "genres": [
+            " Drama",
+            " Romance",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Double Indemnity",
+        "rating": 8.3,
+        "year": "(1944)",
+        "director": "Billy Wilder",
+        "us gross": 5720000,
+        "global gross": 73169222,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Film-Noir",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Taxi Driver",
+        "rating": 8.3,
+        "year": "(1976)",
+        "director": "Martin Scorsese",
+        "us gross": 28262574,
+        "global gross": 73169222,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Singin' in the Rain",
+        "rating": 8.3,
+        "year": "(1952)",
+        "director": "Stanley Donen",
+        "us gross": 8819028,
+        "global gross": 13979088,
+        "genres": [
+            " Comedy",
+            " Musical",
+            " Romance"
+        ]
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "rating": 8.3,
+        "year": "(1968)",
+        "director": "Stanley Kubrick",
+        "us gross": 56954992,
+        "global gross": 190700000,
+        "genres": [
+            " Adventure",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "3 Idiots",
+        "rating": 8.3,
+        "year": "(2009)",
+        "director": "Rajkumar Hirani",
+        "us gross": 6532908,
+        "global gross": 80000000,
+        "genres": [
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Toy Story",
+        "rating": 8.3,
+        "year": "(1995)",
+        "director": "John Lasseter",
+        "us gross": 191796233,
+        "global gross": 373554033,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "rating": 8.3,
+        "year": "(1962)",
+        "director": "Robert Mulligan",
+        "us gross": 13129846,
+        "global gross": 373554033,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Full Metal Jacket",
+        "rating": 8.3,
+        "year": "(1987)",
+        "director": "Stanley Kubrick",
+        "us gross": 46357676,
+        "global gross": 373554033,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Inglourious Basterds",
+        "rating": 8.3,
+        "year": "(2009)",
+        "director": "Quentin Tarantino",
+        "us gross": 120540719,
+        "global gross": 313600000,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Bicycle Thieves",
+        "rating": 8.3,
+        "year": "(1948)",
+        "director": "Vittorio De Sica",
+        "us gross": 332930,
+        "global gross": 313600000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Sting",
+        "rating": 8.3,
+        "year": "(1973)",
+        "director": "George Roy Hill",
+        "us gross": 159600000,
+        "global gross": 313600000,
+        "genres": [
+            " Comedy",
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Kid",
+        "rating": 8.3,
+        "year": "(1921)",
+        "director": "Charles Chaplin",
+        "us gross": 5450000,
+        "global gross": 313600000,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Family"
+        ]
+    },
+    {
+        "title": "Toy Story 3",
+        "rating": 8.3,
+        "year": "(2010)",
+        "director": "Lee Unkrich",
+        "us gross": 415004880,
+        "global gross": 1063171911,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Snatch",
+        "rating": 8.3,
+        "year": "(2000)",
+        "director": "Guy Ritchie",
+        "us gross": 30328156,
+        "global gross": 83557872,
+        "genres": [
+            " Comedy",
+            " Crime"
+        ]
+    },
+    {
+        "title": "Good Will Hunting",
+        "rating": 8.3,
+        "year": "(1997)",
+        "director": "Gus Van Sant",
+        "us gross": 138433435,
+        "global gross": 225933435,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Jagten",
+        "rating": 8.3,
+        "year": "(2012)",
+        "director": "Thomas Vinterberg",
+        "us gross": 687185,
+        "global gross": 18309793,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "rating": 8.3,
+        "year": "(1975)",
+        "director": "Terry Gilliam",
+        "us gross": 1229197,
+        "global gross": 18309793,
+        "genres": [
+            " Adventure",
+            " Comedy",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "For a Few Dollars More",
+        "rating": 8.3,
+        "year": "(1965)",
+        "director": "Sergio Leone",
+        "us gross": 15000000,
+        "global gross": 18309793,
+        "genres": [
+            " Western"
+        ]
+    },
+    {
+        "title": "Scarface",
+        "rating": 8.2,
+        "year": "(1983)",
+        "director": "Brian De Palma",
+        "us gross": 45598982,
+        "global gross": 65884703,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "L.A. Confidential",
+        "rating": 8.2,
+        "year": "(1997)",
+        "director": "Curtis Hanson",
+        "us gross": 64616940,
+        "global gross": 126216940,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Apartment",
+        "rating": 8.2,
+        "year": "(1960)",
+        "director": "Billy Wilder",
+        "us gross": 18600000,
+        "global gross": 25000000,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Metropolis",
+        "rating": 8.2,
+        "year": "(1927)",
+        "director": "Fritz Lang",
+        "us gross": 26435,
+        "global gross": 25000000,
+        "genres": [
+            " Drama",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "A Separation",
+        "rating": 8.2,
+        "year": "(2011)",
+        "director": "Asghar Farhadi",
+        "us gross": 7098492,
+        "global gross": 24426169,
+        "genres": [
+            " Drama",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "Rash\u00f4mon",
+        "rating": 8.2,
+        "year": "(1950)",
+        "director": "Akira Kurosawa",
+        "us gross": 7098492,
+        "global gross": 24426169,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "rating": 8.2,
+        "year": "(1989)",
+        "director": "Steven Spielberg",
+        "us gross": 197171806,
+        "global gross": 474171806,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Up",
+        "rating": 8.2,
+        "year": "(2009)",
+        "director": "Pete Docter",
+        "us gross": 293004164,
+        "global gross": 731342744,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Family"
+        ]
+    },
+    {
+        "title": "Yojimbo",
+        "rating": 8.2,
+        "year": "(1961)",
+        "director": "Akira Kurosawa",
+        "us gross": 293004164,
+        "global gross": 731342744,
+        "genres": [
+            " Action",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "All About Eve",
+        "rating": 8.2,
+        "year": "(1950)",
+        "director": "Joseph L. Mankiewicz",
+        "us gross": 10177,
+        "global gross": 731342744,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Batman Begins",
+        "rating": 8.2,
+        "year": "(2005)",
+        "director": "Christopher Nolan",
+        "us gross": 206852432,
+        "global gross": 374218673,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Some Like It Hot",
+        "rating": 8.2,
+        "year": "(1959)",
+        "director": "Billy Wilder",
+        "us gross": 25000000,
+        "global gross": 374218673,
+        "genres": [
+            " Comedy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Unforgiven",
+        "rating": 8.2,
+        "year": "(1992)",
+        "director": "Clint Eastwood",
+        "us gross": 101157447,
+        "global gross": 159157447,
+        "genres": [
+            " Drama",
+            " Western"
+        ]
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "rating": 8.2,
+        "year": "(1948)",
+        "director": "John Huston",
+        "us gross": 5014000,
+        "global gross": 159157447,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Western"
+        ]
+    },
+    {
+        "title": "Babam ve Oglum",
+        "rating": 8.2,
+        "year": "(2005)",
+        "director": "\u00c7agan Irmak",
+        "us gross": 5014000,
+        "global gross": 159157447,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Downfall",
+        "rating": 8.2,
+        "year": "(2004)",
+        "director": "Oliver Hirschbiegel",
+        "us gross": 5509040,
+        "global gross": 92180910,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History",
+            " War"
+        ]
+    },
+    {
+        "title": "Die Hard",
+        "rating": 8.2,
+        "year": "(1988)",
+        "director": "John McTiernan",
+        "us gross": 83008852,
+        "global gross": 140767956,
+        "genres": [
+            " Action",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Heat",
+        "rating": 8.2,
+        "year": "(1995)",
+        "director": "Michael Mann",
+        "us gross": 67436818,
+        "global gross": 187436818,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Raging Bull",
+        "rating": 8.2,
+        "year": "(1980)",
+        "director": "Martin Scorsese",
+        "us gross": 49034,
+        "global gross": 187436818,
+        "genres": [
+            " Biography",
+            " Drama",
+            " Sport"
+        ]
+    },
+    {
+        "title": "Ikiru",
+        "rating": 8.2,
+        "year": "(1952)",
+        "director": "Akira Kurosawa",
+        "us gross": 55240,
+        "global gross": 187436818,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Great Escape",
+        "rating": 8.2,
+        "year": "(1963)",
+        "director": "John Sturges",
+        "us gross": 12100000,
+        "global gross": 187436818,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " History",
+            " Thriller",
+            " War"
+        ]
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "rating": 8.2,
+        "year": "(2017)",
+        "director": "Martin McDonagh",
+        "us gross": 54421772,
+        "global gross": 156033858,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Third Man",
+        "rating": 8.2,
+        "year": "(1949)",
+        "director": "Carol Reed",
+        "us gross": 449191,
+        "global gross": 156033858,
+        "genres": [
+            " Film-Noir",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Children of Heaven",
+        "rating": 8.2,
+        "year": "(1997)",
+        "director": "Majid Majidi",
+        "us gross": 925402,
+        "global gross": 156033858,
+        "genres": [
+            " Drama",
+            " Family"
+        ]
+    },
+    {
+        "title": "Chinatown",
+        "rating": 8.2,
+        "year": "(1974)",
+        "director": "Roman Polanski",
+        "us gross": 29200000,
+        "global gross": 30000000,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "rating": 8.2,
+        "year": "(2006)",
+        "director": "Guillermo del Toro",
+        "us gross": 37634615,
+        "global gross": 87041569,
+        "genres": [
+            " Drama",
+            " Fantasy",
+            " War"
+        ]
+    },
+    {
+        "title": "Incendies",
+        "rating": 8.2,
+        "year": "(2010)",
+        "director": "Denis Villeneuve",
+        "us gross": 6857096,
+        "global gross": 12597210,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " War"
+        ]
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "rating": 8.2,
+        "year": "(1988)",
+        "director": "Hayao Miyazaki",
+        "us gross": 6857096,
+        "global gross": 12597210,
+        "genres": [
+            " Animation",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Ran",
+        "rating": 8.2,
+        "year": "(1985)",
+        "director": "Akira Kurosawa",
+        "us gross": 3522421,
+        "global gross": 12597210,
+        "genres": [
+            " Action",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "rating": 8.2,
+        "year": "(1961)",
+        "director": "Stanley Kramer",
+        "us gross": 6000000,
+        "global gross": 10000000,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "rating": 8.2,
+        "year": "(2009)",
+        "director": "Juan Jos\u00e9 Campanella",
+        "us gross": 20167424,
+        "global gross": 33965843,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Romance",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Gold Rush",
+        "rating": 8.2,
+        "year": "(1925)",
+        "director": "Charles Chaplin",
+        "us gross": 5450000,
+        "global gross": 33965843,
+        "genres": [
+            " Adventure",
+            " Comedy",
+            " Drama",
+            " Family"
+        ]
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "rating": 8.2,
+        "year": "(2004)",
+        "director": "Hayao Miyazaki",
+        "us gross": 4711096,
+        "global gross": 235184110,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "rating": 8.2,
+        "year": "(1957)",
+        "director": "David Lean",
+        "us gross": 44908000,
+        "global gross": 235184110,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "On the Waterfront",
+        "rating": 8.2,
+        "year": "(1954)",
+        "director": "Elia Kazan",
+        "us gross": 9600000,
+        "global gross": 235184110,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Inside Out",
+        "rating": 8.2,
+        "year": "(2015)",
+        "director": "Pete Docter",
+        "us gross": 356461711,
+        "global gross": 857611174,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Drama",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "The Seventh Seal",
+        "rating": 8.2,
+        "year": "(1957)",
+        "director": "Ingmar Bergman",
+        "us gross": 356461711,
+        "global gross": 857611174,
+        "genres": [
+            " Drama",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "rating": 8.2,
+        "year": "(1998)",
+        "director": "Guy Ritchie",
+        "us gross": 3897569,
+        "global gross": 28356188,
+        "genres": [
+            " Comedy",
+            " Crime"
+        ]
+    },
+    {
+        "title": "A Beautiful Mind",
+        "rating": 8.2,
+        "year": "(2001)",
+        "director": "Ron Howard",
+        "us gross": 170742341,
+        "global gross": 313542341,
+        "genres": [
+            " Biography",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Casino",
+        "rating": 8.2,
+        "year": "(1995)",
+        "director": "Martin Scorsese",
+        "us gross": 170742341,
+        "global gross": 313542341,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Room",
+        "rating": 8.2,
+        "year": "(2015)",
+        "director": "Lenny Abrahamson",
+        "us gross": 14677654,
+        "global gross": 21989069,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "rating": 8.2,
+        "year": "(1939)",
+        "director": "Frank Capra",
+        "us gross": 9600000,
+        "global gross": 21989069,
+        "genres": [
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Elephant Man",
+        "rating": 8.1,
+        "year": "(1980)",
+        "director": "David Lynch",
+        "us gross": 26010864,
+        "global gross": 21989069,
+        "genres": [
+            " Biography",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "rating": 8.1,
+        "year": "(2013)",
+        "director": "Martin Scorsese",
+        "us gross": 116900694,
+        "global gross": 392000694,
+        "genres": [
+            " Biography",
+            " Comedy",
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "V for Vendetta",
+        "rating": 8.1,
+        "year": "(2005)",
+        "director": "James McTeigue",
+        "us gross": 70511035,
+        "global gross": 132511035,
+        "genres": [
+            " Action",
+            " Drama",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Blade Runner",
+        "rating": 8.1,
+        "year": "(1982)",
+        "director": "Ridley Scott",
+        "us gross": 27000000,
+        "global gross": 132511035,
+        "genres": [
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Wild Strawberries",
+        "rating": 8.1,
+        "year": "(1957)",
+        "director": "Ingmar Bergman",
+        "us gross": 27000000,
+        "global gross": 132511035,
+        "genres": [
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Sherlock Jr.",
+        "rating": 8.1,
+        "year": "(1924)",
+        "director": "Buster Keaton",
+        "us gross": 27000000,
+        "global gross": 132511035,
+        "genres": [
+            " Action",
+            " Comedy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Warrior",
+        "rating": 8.1,
+        "year": "(2011)",
+        "director": "Gavin O'Connor",
+        "us gross": 13657115,
+        "global gross": 23057115,
+        "genres": [
+            " Drama",
+            " Sport"
+        ]
+    },
+    {
+        "title": "The General",
+        "rating": 8.1,
+        "year": "(1926)",
+        "director": "Clyde Bruckman",
+        "us gross": 13657115,
+        "global gross": 23057115,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Comedy",
+            " Drama",
+            " War",
+            " Western"
+        ]
+    },
+    {
+        "title": "Dial M for Murder",
+        "rating": 8.1,
+        "year": "(1954)",
+        "director": "Alfred Hitchcock",
+        "us gross": 12562,
+        "global gross": 6000000,
+        "genres": [
+            " Crime",
+            " Film-Noir",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Trainspotting",
+        "rating": 8.1,
+        "year": "(1996)",
+        "director": "Danny Boyle",
+        "us gross": 16501785,
+        "global gross": 6000000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Gone with the Wind",
+        "rating": 8.1,
+        "year": "(1939)",
+        "director": "Victor Fleming",
+        "us gross": 198676459,
+        "global gross": 400176459,
+        "genres": [
+            " Drama",
+            " History",
+            " Romance",
+            " War"
+        ]
+    },
+    {
+        "title": "Gran Torino",
+        "rating": 8.1,
+        "year": "(2008)",
+        "director": "Clint Eastwood",
+        "us gross": 148095302,
+        "global gross": 269958228,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "No Country for Old Men",
+        "rating": 8.1,
+        "year": "(2007)",
+        "director": "Ethan Coen",
+        "us gross": 74283625,
+        "global gross": 171627166,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Sixth Sense",
+        "rating": 8.1,
+        "year": "(1999)",
+        "director": "M. Night Shyamalan",
+        "us gross": 293506292,
+        "global gross": 672806292,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Fargo",
+        "rating": 8.1,
+        "year": "(1996)",
+        "director": "Joel Coen",
+        "us gross": 24611975,
+        "global gross": 36000000,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Deer Hunter",
+        "rating": 8.1,
+        "year": "(1978)",
+        "director": "Michael Cimino",
+        "us gross": 48979328,
+        "global gross": 36000000,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "There Will Be Blood",
+        "rating": 8.1,
+        "year": "(2007)",
+        "director": "Paul Thomas Anderson",
+        "us gross": 40222514,
+        "global gross": 77208711,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Thing",
+        "rating": 8.1,
+        "year": "(1982)",
+        "director": "John Carpenter",
+        "us gross": 13782838,
+        "global gross": 77208711,
+        "genres": [
+            " Horror",
+            " Mystery",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Finding Nemo",
+        "rating": 8.1,
+        "year": "(2003)",
+        "director": "Andrew Stanton",
+        "us gross": 380843261,
+        "global gross": 936743261,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "The Big Lebowski",
+        "rating": 8.1,
+        "year": "(1998)",
+        "director": "Joel Coen",
+        "us gross": 17498804,
+        "global gross": 46189568,
+        "genres": [
+            " Comedy",
+            " Crime"
+        ]
+    },
+    {
+        "title": "Come and See",
+        "rating": 8.1,
+        "year": "(1985)",
+        "director": "Elem Klimov",
+        "us gross": 17498804,
+        "global gross": 46189568,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Sunrise",
+        "rating": 8.1,
+        "year": "(1927)",
+        "director": "F.W. Murnau",
+        "us gross": 17498804,
+        "global gross": 46189568,
+        "genres": [
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Cool Hand Luke",
+        "rating": 8.1,
+        "year": "(1967)",
+        "director": "Stuart Rosenberg",
+        "us gross": 17498804,
+        "global gross": 16217773,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "rating": 8.1,
+        "year": "(2003)",
+        "director": "Quentin Tarantino",
+        "us gross": 70099045,
+        "global gross": 180949045,
+        "genres": [
+            " Action",
+            " Crime",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Tokyo Story",
+        "rating": 8.1,
+        "year": "(1953)",
+        "director": "Yasujir\u00f4 Ozu",
+        "us gross": 70099045,
+        "global gross": 180949045,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Rebecca",
+        "rating": 8.1,
+        "year": "(1940)",
+        "director": "Alfred Hitchcock",
+        "us gross": 70099045,
+        "global gross": 180949045,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Romance",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Bandit",
+        "rating": 8.1,
+        "year": "(1996)",
+        "director": "Yavuz Turgul",
+        "us gross": 70099045,
+        "global gross": 1979000,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Shutter Island",
+        "rating": 8.1,
+        "year": "(2010)",
+        "director": "Martin Scorsese",
+        "us gross": 128012934,
+        "global gross": 294804195,
+        "genres": [
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "rating": 8.1,
+        "year": "(2016)",
+        "director": "Mel Gibson",
+        "us gross": 67209615,
+        "global gross": 175302354,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History",
+            " War"
+        ]
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "rating": 8.1,
+        "year": "(2010)",
+        "director": "Dean DeBlois",
+        "us gross": 217581231,
+        "global gross": 494878759,
+        "genres": [
+            " Animation",
+            " Action",
+            " Adventure",
+            " Comedy",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Mary and Max",
+        "rating": 8.1,
+        "year": "(2009)",
+        "director": "Adam Elliot",
+        "us gross": 217581231,
+        "global gross": 1739445,
+        "genres": [
+            " Animation",
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Andrei Rublev",
+        "rating": 8.1,
+        "year": "(1966)",
+        "director": "Andrei Tarkovsky",
+        "us gross": 217581231,
+        "global gross": 1739445,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Gone Girl",
+        "rating": 8.1,
+        "year": "(2014)",
+        "director": "David Fincher",
+        "us gross": 167767189,
+        "global gross": 369330363,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Blade Runner 2049",
+        "rating": 8.1,
+        "year": "(2017)",
+        "director": "Denis Villeneuve",
+        "us gross": 92054159,
+        "global gross": 369330363,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Into the Wild",
+        "rating": 8.1,
+        "year": "(2007)",
+        "director": "Sean Penn",
+        "us gross": 18352454,
+        "global gross": 369330363,
+        "genres": [
+            " Adventure",
+            " Biography",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Life of Brian",
+        "rating": 8.1,
+        "year": "(1979)",
+        "director": "Terry Jones",
+        "us gross": 20045115,
+        "global gross": 36045115,
+        "genres": [
+            " Comedy"
+        ]
+    },
+    {
+        "title": "Relatos salvajes",
+        "rating": 8.1,
+        "year": "(2014)",
+        "director": "Dami\u00e1n Szifron",
+        "us gross": 3107072,
+        "global gross": 36353750,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Rang De Basanti",
+        "rating": 8.1,
+        "year": "(2006)",
+        "director": "Rakeysh Omprakash Mehra",
+        "us gross": 2197331,
+        "global gross": 36353750,
+        "genres": [
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "It Happened One Night",
+        "rating": 8.1,
+        "year": "(1934)",
+        "director": "Frank Capra",
+        "us gross": 2197331,
+        "global gross": 36353750,
+        "genres": [
+            " Comedy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "rating": 8.1,
+        "year": "(1928)",
+        "director": "Carl Theodor Dreyer",
+        "us gross": 21877,
+        "global gross": 36353750,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Platoon",
+        "rating": 8.1,
+        "year": "(1986)",
+        "director": "Oliver Stone",
+        "us gross": 138530565,
+        "global gross": 36353750,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "In the Name of the Father",
+        "rating": 8.1,
+        "year": "(1993)",
+        "director": "Jim Sheridan",
+        "us gross": 25010410,
+        "global gross": 40700000,
+        "genres": [
+            " Biography",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Network",
+        "rating": 8.1,
+        "year": "(1976)",
+        "director": "Sidney Lumet",
+        "us gross": 25010410,
+        "global gross": 40700000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Hotel Rwanda",
+        "rating": 8.1,
+        "year": "(2004)",
+        "director": "Terry George",
+        "us gross": 23530892,
+        "global gross": 36532987,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History",
+            " War"
+        ]
+    },
+    {
+        "title": "Stand by Me",
+        "rating": 8.1,
+        "year": "(1986)",
+        "director": "Rob Reiner",
+        "us gross": 52287414,
+        "global gross": 36532987,
+        "genres": [
+            " Adventure",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "rating": 8.1,
+        "year": "(2014)",
+        "director": "Wes Anderson",
+        "us gross": 59100318,
+        "global gross": 174600318,
+        "genres": [
+            " Adventure",
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Wages of Fear",
+        "rating": 8.1,
+        "year": "(1953)",
+        "director": "Henri-Georges Clouzot",
+        "us gross": 59100318,
+        "global gross": 174600318,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Stalker",
+        "rating": 8.1,
+        "year": "(1979)",
+        "director": "Andrei Tarkovsky",
+        "us gross": 234723,
+        "global gross": 174600318,
+        "genres": [
+            " Drama",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Ben-Hur",
+        "rating": 8.1,
+        "year": "(1959)",
+        "director": "William Wyler",
+        "us gross": 74700000,
+        "global gross": 196200000,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "rating": 8.1,
+        "year": "(1993)",
+        "director": "Steven Spielberg",
+        "us gross": 402453882,
+        "global gross": 1029153882,
+        "genres": [
+            " Adventure",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Rush",
+        "rating": 8.1,
+        "year": "(2013)",
+        "director": "Ron Howard",
+        "us gross": 26947624,
+        "global gross": 90247624,
+        "genres": [
+            " Action",
+            " Biography",
+            " Drama",
+            " History",
+            " Sport"
+        ]
+    },
+    {
+        "title": "Persona",
+        "rating": 8.1,
+        "year": "(1966)",
+        "director": "Ingmar Bergman",
+        "us gross": 26947624,
+        "global gross": 90247624,
+        "genres": [
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "12 Years a Slave",
+        "rating": 8.1,
+        "year": "(2013)",
+        "director": "Steve McQueen",
+        "us gross": 56671993,
+        "global gross": 187733202,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Memories of Murder",
+        "rating": 8.1,
+        "year": "(2003)",
+        "director": "Joon-ho Bong",
+        "us gross": 14131,
+        "global gross": 187733202,
+        "genres": [
+            " Action",
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Truman Show",
+        "rating": 8.1,
+        "year": "(1998)",
+        "director": "Peter Weir",
+        "us gross": 125618201,
+        "global gross": 264118201,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Million Dollar Baby",
+        "rating": 8.1,
+        "year": "(2004)",
+        "director": "Clint Eastwood",
+        "us gross": 100492203,
+        "global gross": 216763646,
+        "genres": [
+            " Drama",
+            " Sport"
+        ]
+    },
+    {
+        "title": "The 400 Blows",
+        "rating": 8.1,
+        "year": "(1959)",
+        "director": "Fran\u00e7ois Truffaut",
+        "us gross": 100492203,
+        "global gross": 216763646,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "rating": 8.1,
+        "year": "(2015)",
+        "director": "George Miller",
+        "us gross": 100492203,
+        "global gross": 216763646,
+        "genres": [
+            " Action",
+            " Adventure",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Spotlight",
+        "rating": 8.1,
+        "year": "(2015)",
+        "director": "Tom McCarthy",
+        "us gross": 45055776,
+        "global gross": 91191352,
+        "genres": [
+            " Crime",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Logan",
+        "rating": 8.1,
+        "year": "(2017)",
+        "director": "James Mangold",
+        "us gross": 226277068,
+        "global gross": 619021436,
+        "genres": [
+            " Action",
+            " Drama",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Amores Perros",
+        "rating": 8.1,
+        "year": "(2000)",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "us gross": 5383834,
+        "global gross": 619021436,
+        "genres": [
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Before Sunrise",
+        "rating": 8.1,
+        "year": "(1995)",
+        "director": "Richard Linklater",
+        "us gross": 5535405,
+        "global gross": 17200000,
+        "genres": [
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "rating": 8.1,
+        "year": "(2009)",
+        "director": "Lasse Hallstr\u00f6m",
+        "us gross": 5535405,
+        "global gross": 47707417,
+        "genres": [
+            " Drama",
+            " Family"
+        ]
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "rating": 8.1,
+        "year": "(1969)",
+        "director": "George Roy Hill",
+        "us gross": 102308889,
+        "global gross": 47707417,
+        "genres": [
+            " Biography",
+            " Crime",
+            " Drama",
+            " Western"
+        ]
+    },
+    {
+        "title": "Nausica\u00e4 of the Valley of the Wind",
+        "rating": 8.1,
+        "year": "(1984)",
+        "director": "Hayao Miyazaki",
+        "us gross": 102308889,
+        "global gross": 47707417,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Fantasy",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "Prisoners",
+        "rating": 8.1,
+        "year": "(2013)",
+        "director": "Denis Villeneuve",
+        "us gross": 61002302,
+        "global gross": 122126687,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Princess Bride",
+        "rating": 8.1,
+        "year": "(1987)",
+        "director": "Rob Reiner",
+        "us gross": 30857814,
+        "global gross": 122126687,
+        "genres": [
+            " Adventure",
+            " Family",
+            " Fantasy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "La La Land",
+        "rating": 8.0,
+        "year": "(2016)",
+        "director": "Damien Chazelle",
+        "us gross": 151101803,
+        "global gross": 445636919,
+        "genres": [
+            " Comedy",
+            " Drama",
+            " Music",
+            " Musical",
+            " Romance"
+        ]
+    },
+    {
+        "title": "A Wednesday",
+        "rating": 8.0,
+        "year": "(2008)",
+        "director": "Neeraj Pandey",
+        "us gross": 151101803,
+        "global gross": 445636919,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Catch Me If You Can",
+        "rating": 8.0,
+        "year": "(2002)",
+        "director": "Steven Spielberg",
+        "us gross": 164615351,
+        "global gross": 352114312,
+        "genres": [
+            " Biography",
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Maltese Falcon",
+        "rating": 8.0,
+        "year": "(1941)",
+        "director": "John Huston",
+        "us gross": 164615351,
+        "global gross": 1772000,
+        "genres": [
+            " Film-Noir",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "rating": 8.0,
+        "year": "(2011)",
+        "director": "David Yates",
+        "us gross": 381011219,
+        "global gross": 1341511219,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Fantasy",
+            " Mystery"
+        ]
+    },
+    {
+        "title": "Rocky",
+        "rating": 8.0,
+        "year": "(1976)",
+        "director": "John G. Avildsen",
+        "us gross": 117235247,
+        "global gross": 225000000,
+        "genres": [
+            " Drama",
+            " Sport"
+        ]
+    },
+    {
+        "title": "The Nights of Cabiria",
+        "rating": 8.0,
+        "year": "(1957)",
+        "director": "Federico Fellini",
+        "us gross": 752045,
+        "global gross": 225000000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "rating": 8.0,
+        "year": "(1940)",
+        "director": "John Ford",
+        "us gross": 752045,
+        "global gross": 225000000,
+        "genres": [
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Monsters, Inc.",
+        "rating": 8.0,
+        "year": "(2001)",
+        "director": "Pete Docter",
+        "us gross": 289916256,
+        "global gross": 562816256,
+        "genres": [
+            " Animation",
+            " Adventure",
+            " Comedy",
+            " Family",
+            " Fantasy"
+        ]
+    },
+    {
+        "title": "Diabolique",
+        "rating": 8.0,
+        "year": "(1955)",
+        "director": "Henri-Georges Clouzot",
+        "us gross": 289916256,
+        "global gross": 562816256,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Horror",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Donnie Darko",
+        "rating": 8.0,
+        "year": "(2001)",
+        "director": "Richard Kelly",
+        "us gross": 289916256,
+        "global gross": 562816256,
+        "genres": [
+            " Drama",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Barry Lyndon",
+        "rating": 8.0,
+        "year": "(1975)",
+        "director": "Stanley Kubrick",
+        "us gross": 20000000,
+        "global gross": 31500000,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " History",
+            " War"
+        ]
+    },
+    {
+        "title": "Paper Moon",
+        "rating": 8.0,
+        "year": "(1973)",
+        "director": "Peter Bogdanovich",
+        "us gross": 30933743,
+        "global gross": 31500000,
+        "genres": [
+            " Comedy",
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Gandhi",
+        "rating": 8.0,
+        "year": "(1982)",
+        "director": "Richard Attenborough",
+        "us gross": 52767889,
+        "global gross": 127767889,
+        "genres": [
+            " Biography",
+            " Drama",
+            " History"
+        ]
+    },
+    {
+        "title": "Touch of Evil",
+        "rating": 8.0,
+        "year": "(1958)",
+        "director": "Orson Welles",
+        "us gross": 2237659,
+        "global gross": 127767889,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Film-Noir",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "The Terminator",
+        "rating": 8.0,
+        "year": "(1984)",
+        "director": "James Cameron",
+        "us gross": 38400000,
+        "global gross": 40000000,
+        "genres": [
+            " Action",
+            " Sci-Fi"
+        ]
+    },
+    {
+        "title": "La Haine",
+        "rating": 8.0,
+        "year": "(1995)",
+        "director": "Mathieu Kassovitz",
+        "us gross": 309811,
+        "global gross": 40000000,
+        "genres": [
+            " Crime",
+            " Drama"
+        ]
+    },
+    {
+        "title": "Groundhog Day",
+        "rating": 8.0,
+        "year": "(1993)",
+        "director": "Harold Ramis",
+        "us gross": 70906973,
+        "global gross": 40000000,
+        "genres": [
+            " Comedy",
+            " Fantasy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "The Wizard of Oz",
+        "rating": 8.0,
+        "year": "(1939)",
+        "director": "Victor Fleming",
+        "us gross": 22202612,
+        "global gross": 40000000,
+        "genres": [
+            " Adventure",
+            " Family",
+            " Fantasy",
+            " Musical"
+        ]
+    },
+    {
+        "title": "The Bourne Ultimatum",
+        "rating": 8.0,
+        "year": "(2007)",
+        "director": "Paul Greengrass",
+        "us gross": 227471070,
+        "global gross": 442824138,
+        "genres": [
+            " Action",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Annie Hall",
+        "rating": 8.0,
+        "year": "(1977)",
+        "director": "Woody Allen",
+        "us gross": 39200000,
+        "global gross": 442824138,
+        "genres": [
+            " Comedy",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Dead Poets Society",
+        "rating": 8.0,
+        "year": "(1989)",
+        "director": "Peter Weir",
+        "us gross": 95860116,
+        "global gross": 140000000,
+        "genres": [
+            " Comedy",
+            " Drama"
+        ]
+    },
+    {
+        "title": "8\u00bd",
+        "rating": 8.0,
+        "year": "(1963)",
+        "director": "Federico Fellini",
+        "us gross": 50690,
+        "global gross": 140000000,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "rating": 8.0,
+        "year": "(1975)",
+        "director": "Steven Spielberg",
+        "us gross": 260000000,
+        "global gross": 470653000,
+        "genres": [
+            " Adventure",
+            " Drama",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "In the Mood for Love",
+        "rating": 8.0,
+        "year": "(2000)",
+        "director": "Kar-Wai Wong",
+        "us gross": 2734044,
+        "global gross": 470653000,
+        "genres": [
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "The Help",
+        "rating": 8.0,
+        "year": "(2011)",
+        "director": "Tate Taylor",
+        "us gross": 169708112,
+        "global gross": 216639112,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "rating": 8.0,
+        "year": "(1946)",
+        "director": "William Wyler",
+        "us gross": 23650000,
+        "global gross": 44309982,
+        "genres": [
+            " Drama",
+            " Romance",
+            " War"
+        ]
+    },
+    {
+        "title": "Infernal Affairs",
+        "rating": 8.0,
+        "year": "(2002)",
+        "director": "Wai-Keung Lau",
+        "us gross": 169659,
+        "global gross": 8708932,
+        "genres": [
+            " Crime",
+            " Drama",
+            " Mystery",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Paris, Texas",
+        "rating": 8.0,
+        "year": "(1984)",
+        "director": "Wim Wenders",
+        "us gross": 2181987,
+        "global gross": 8708932,
+        "genres": [
+            " Drama"
+        ]
+    },
+    {
+        "title": "Twelve Monkeys",
+        "rating": 8.0,
+        "year": "(1995)",
+        "director": "Terry Gilliam",
+        "us gross": 57141459,
+        "global gross": 168839459,
+        "genres": [
+            " Mystery",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Three Colors: Red",
+        "rating": 8.0,
+        "year": "(1994)",
+        "director": "Krzysztof Kieslowski",
+        "us gross": 4043686,
+        "global gross": 168839459,
+        "genres": [
+            " Drama",
+            " Mystery",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Before Sunset",
+        "rating": 8.0,
+        "year": "(2004)",
+        "director": "Richard Linklater",
+        "us gross": 5792822,
+        "global gross": 168839459,
+        "genres": [
+            " Drama",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Beauty and the Beast",
+        "rating": 8.0,
+        "year": "(1991)",
+        "director": "Gary Trousdale",
+        "us gross": 218967620,
+        "global gross": 424967620,
+        "genres": [
+            " Animation",
+            " Family",
+            " Fantasy",
+            " Musical",
+            " Romance"
+        ]
+    },
+    {
+        "title": "Tangerines",
+        "rating": 8.0,
+        "year": "(2013)",
+        "director": "Zaza Urushadze",
+        "us gross": 144501,
+        "global gross": 942487,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "The Battle of Algiers",
+        "rating": 8.0,
+        "year": "(1966)",
+        "director": "Gillo Pontecorvo",
+        "us gross": 55908,
+        "global gross": 942487,
+        "genres": [
+            " Drama",
+            " War"
+        ]
+    },
+    {
+        "title": "Akira",
+        "rating": 8.0,
+        "year": "(1988)",
+        "director": "Katsuhiro \u00d4tomo",
+        "us gross": 553171,
+        "global gross": 942487,
+        "genres": [
+            " Animation",
+            " Action",
+            " Drama",
+            " Sci-Fi",
+            " Thriller"
+        ]
+    },
+    {
+        "title": "Dog Day Afternoon",
+        "rating": 8.0,
+        "year": "(1975)",
+        "director": "Sidney Lumet",
+        "us gross": 50000000,
+        "global gross": 942487,
+        "genres": [
+            " Biography",
+            " Crime",
+            " Drama",
+            " Thriller"
+        ]
+    }
+]
